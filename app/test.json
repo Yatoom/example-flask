@@ -1,0 +1,57 @@
+{
+    "_id" : "iDvTTdm4WZCTeScQJ",
+    "title" : "Inspelen-kaatsen-afwerken (recht voor doel)",
+    "category" : "sc",
+    "imageUrl" : "https://s3.eu-central-1.amazonaws.com/shankly/exercises/sc/sc11.png",
+	"vUrl" : "https://d2kw1ljp521egd.cloudfront.net/sc/sc11.mp4",
+    "status" : 4,
+    "materials" : {
+        "balls" : 18,
+        "pawns" : 2,
+        "sGoals" : 0,
+        "lGoals" : 1,
+        "shirts" : 0
+    },
+    "duration" : {
+        "target" : 10,
+        "min" : 5,
+        "max" : 10
+    },
+    "space" : {
+        "fieldSize" : 500,
+        "lTarget" : 35,
+        "lMin" : 30,
+        "lMax" : 40,
+        "wTarget" : 20,
+        "wMin" : 20,
+        "wMax" : 20
+    },
+    "profile" : {
+        "coaching" : 1,
+        "explanation" : 1,
+        "demonstration" : 1,
+        "overview" : 1,
+        "guidance" : 1
+    },
+    "players" : {
+        "tPlayers" : 10,
+        "minPlayers" : 10,
+        "maxPlayers" : 20,
+        "group" : false,
+        "groups" : 2,
+        "playersPerGroup" : 2,
+        "goalKeepers" : 1
+    },
+    "teamCategory" : [ 
+        11, 
+        12, 
+        13, 
+        14, 
+        15, 
+        16, 
+        17, 
+        18, 
+        19
+    ],
+    "purpose" : "Na een inspeelpass schiet een speler op doel van buiten het 16-metergebied. Na het schot wordt de speler die geschoten heeft kaatser. Spelers oefenen zowel op schoten met het linker- als het rechterbeen. Daarnaast kun je als trainer het accent leggen op geplaatste schoten met de binnenkant van de voet of met een wreeftrap."
+}
